@@ -84,7 +84,7 @@ h1 {
     bottom: 20px;
     left: 20px;
     right: 20px;
-    background-color: rgba(22, 128, 194, 1);
+    background-color: var(--primary-color);
     color: white;
     padding: 12px;
 }
