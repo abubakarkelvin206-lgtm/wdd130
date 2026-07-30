@@ -4,7 +4,7 @@ nav {
 }
 
 main {
-    max-width: 150px;
+    max-width: 300px;
 }
 
 nav a {
@@ -20,9 +20,9 @@ h1 {
 main img {
     width: 150px;
     height: auto;
-    border: 1px solid steelblue;
+    border: 1px solid rgb(10, 48, 219);
     padding: 2px;
-    box-shadow: 0 0 30px gray;
+    box-shadow: 0 0 30px rgb(9, 12, 235);
 }
 
 p {
